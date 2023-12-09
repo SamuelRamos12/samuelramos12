@@ -11,15 +11,9 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
 # 📊 GitHub Stats:
-<h2 align="center" >⚡Stats⚡</h2>
-<br>
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SamuelRamos12&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=SamuelRamos12&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
